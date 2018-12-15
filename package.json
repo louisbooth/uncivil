@@ -1,5 +1,5 @@
 {
-  "name": "portfolio",
+  "name": "uncivil",
   "version": "1.0.0",
   "description": "Uncivil Landscapes",
   "main": "index.js",
@@ -13,5 +13,15 @@
   "dependencies": {
     "gh-pages": "^2.0.1",
     "node-sass": "^4.10.0"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louisbooth/uncivil.git"
+  },
+  "bugs": {
+    "url": "https://github.com/louisbooth/uncivil/issues"
   }
 }
