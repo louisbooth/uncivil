@@ -90,7 +90,7 @@ nav ul li {
   font-size: 250%;
   font-weight: 900;
   text-shadow: 1px 1px 2px #000;
-  padding: 10% 0 0 0;
+  padding: 5% 0 0 5%;
 }
 
 nav ul li a {
@@ -207,9 +207,9 @@ footer.second p {
   }
   nav ul,
   nav:active ul {
-    padding: 8px 0;
+    padding: 1px 0;
     left: 23px;
-    top: 34;
+    top: 50px;
     width: 50%;
   }
   nav ul li {
