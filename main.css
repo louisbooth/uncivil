@@ -240,6 +240,9 @@ footer.second p {
   img {
     padding: 2%;
   }
+  .services p {
+    text-align: justify;
+  }
   .one-third-port {
     width: 96%;
     margin: 0 auto;
