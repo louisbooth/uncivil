@@ -241,7 +241,7 @@ footer.second p {
     padding: 2%;
   }
   .services p {
-    text-align: justify;
+    text-align: left;
   }
   .one-third-port {
     width: 96%;
