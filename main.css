@@ -251,4 +251,8 @@ footer.second p {
   .social i {
     font-size: 300%;
   }
+
+  .contact {
+    font-size: 75%;
+  }
 }
